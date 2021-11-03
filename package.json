@@ -21,7 +21,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.6.1",
     "request": "^2.88.0",
-    "validator": "^11.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "concurrently": "^4.1.1",
